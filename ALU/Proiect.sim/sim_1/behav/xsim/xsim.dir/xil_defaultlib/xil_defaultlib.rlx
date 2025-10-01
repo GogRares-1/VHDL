@@ -1,0 +1,15 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/admin/Desktop/Programe/Facultate/Anu2/Anu2 Sem2/CA/INSTR_FETCH/INSTR_FETCH.srcs/sources_1/new/INSTR_FETCH.vhd,1745326796,vhdl,,,,instr_fetch,,,,,,,,
+C:/Users/admin/Desktop/Programe/Facultate/Anu2/Anu2 Sem2/CA/Proiect/Proiect.srcs/sources_1/new/ControlUnit.vhd,1744650681,vhdl,,,,controlunit,,,,,,,,
+C:/Users/admin/Desktop/Programe/Facultate/Anu2/Anu2 Sem2/CA/Proiect/Proiect.srcs/sources_1/new/Debouncer.vhd,1744639928,vhdl,,,,debouncer,,,,,,,,
+C:/Users/admin/Desktop/Programe/Facultate/Anu2/Anu2 Sem2/CA/Proiect/Proiect.srcs/sources_1/new/ExecUnit.vhd,1744711845,vhdl,,,,execunit,,,,,,,,
+C:/Users/admin/Desktop/Programe/Facultate/Anu2/Anu2 Sem2/CA/Proiect/Proiect.srcs/sources_1/new/InstrDecoder.vhd,1745327415,vhdl,,,,instrdecoder,,,,,,,,
+C:/Users/admin/Desktop/Programe/Facultate/Anu2/Anu2 Sem2/CA/Proiect/Proiect.srcs/sources_1/new/MemUnit.vhd,1744651342,vhdl,,,,memunit,,,,,,,,
+C:/Users/admin/Desktop/Programe/Facultate/Anu2/Anu2 Sem2/CA/Proiect/Proiect.srcs/sources_1/new/RegFile.vhd,1744632442,vhdl,,,,regfile,,,,,,,,
+C:/Users/admin/Desktop/Programe/Facultate/Anu2/Anu2 Sem2/CA/Proiect/Proiect.srcs/sources_1/new/SSDISPLAY.vhd,1744644389,vhdl,,,,ssdisplay,,,,,,,,
+C:/Users/admin/Desktop/Programe/Facultate/Anu2/Anu2 Sem2/CA/Proiect/Proiect.srcs/sources_1/new/tb_mips.vhd,1745330860,vhdl,,,,tb_mips,,,,,,,,
+C:/Users/admin/Desktop/Programe/Facultate/Anu2/Anu2 Sem2/CA/Proiect/Proiect.srcs/sources_1/new/test_env.vhd,1745331977,vhdl,C:/Users/admin/Desktop/Programe/Facultate/Anu2/Anu2 Sem2/CA/Proiect/Proiect.srcs/sources_1/new/tb_mips.vhd,,,test_env,,,,,,,,
+C:/Users/admin/Desktop/Programe/Facultate/Anu2/Anu2 Sem2/CA/Proiect/Proiect.srcs/sources_1/new/test_env_tb.vhd,1745335782,vhdl,,,,test_env_tb,,,,,,,,

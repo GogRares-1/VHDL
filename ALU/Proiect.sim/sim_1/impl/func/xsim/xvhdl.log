@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/admin/Desktop/Programe/Facultate/Anu2/Anu2 Sem2/CA/Proiect/Proiect.sim/sim_1/impl/func/xsim/test_env_func_impl.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Debouncer'
+INFO: [VRFC 10-3107] analyzing entity 'ExecUnit'
+INFO: [VRFC 10-3107] analyzing entity 'INSTR_FETCH'
+INFO: [VRFC 10-3107] analyzing entity 'MemUnit'
+INFO: [VRFC 10-3107] analyzing entity 'test_env'
